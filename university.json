@@ -1,0 +1,333 @@
+{
+  "subunits": [
+    {
+      "subunits": [
+        {
+          "subunits": [
+            {
+              "subunits": [
+                {
+                  "recordBookNumber": "ЗК-00001",
+                  "firstName": "Дмитро",
+                  "lastName": "Савчук",
+                  "patronymic": "Миколайович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00002",
+                  "firstName": "Максим",
+                  "lastName": "Савчук",
+                  "patronymic": "Сергійович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00003",
+                  "firstName": "Марія",
+                  "lastName": "Литвиненко",
+                  "patronymic": "Василівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "СА-41",
+              "head": {
+                "firstName": "Максим",
+                "lastName": "Бондаренко",
+                "patronymic": "Іванович",
+                "sex": "MALE"
+              }
+            },
+            {
+              "subunits": [
+                {
+                  "recordBookNumber": "ЗК-00004",
+                  "firstName": "Ірина",
+                  "lastName": "Мороз",
+                  "patronymic": "Сергіївна",
+                  "sex": "FEMALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00005",
+                  "firstName": "Марія",
+                  "lastName": "Кравченко",
+                  "patronymic": "Іванівна",
+                  "sex": "FEMALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00006",
+                  "firstName": "Софія",
+                  "lastName": "Руденко",
+                  "patronymic": "Василівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "СА-42",
+              "head": {
+                "firstName": "Богдан",
+                "lastName": "Мельник",
+                "patronymic": "Іванович",
+                "sex": "MALE"
+              }
+            }
+          ],
+          "name": "Кафедра системного аналізу",
+          "head": {
+            "firstName": "Андрій",
+            "lastName": "Ткаченко",
+            "patronymic": "Васильович",
+            "sex": "MALE"
+          }
+        },
+        {
+          "subunits": [
+            {
+              "subunits": [
+                {
+                  "recordBookNumber": "ЗК-00007",
+                  "firstName": "Олександр",
+                  "lastName": "Савчук",
+                  "patronymic": "Сергійович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00008",
+                  "firstName": "Іван",
+                  "lastName": "Коваленко",
+                  "patronymic": "Петрович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00009",
+                  "firstName": "Юлія",
+                  "lastName": "Гончаренко",
+                  "patronymic": "Сергіївна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ПІ-41",
+              "head": {
+                "firstName": "Юлія",
+                "lastName": "Шевченко",
+                "patronymic": "Петрівна",
+                "sex": "FEMALE"
+              }
+            },
+            {
+              "subunits": [
+                {
+                  "recordBookNumber": "ЗК-00010",
+                  "firstName": "Олександр",
+                  "lastName": "Савчук",
+                  "patronymic": "Петрович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00011",
+                  "firstName": "Іван",
+                  "lastName": "Бондаренко",
+                  "patronymic": "Сергійович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00012",
+                  "firstName": "Олена",
+                  "lastName": "Поліщук",
+                  "patronymic": "Іванівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ПІ-42",
+              "head": {
+                "firstName": "Богдан",
+                "lastName": "Литвиненко",
+                "patronymic": "Олександрович",
+                "sex": "MALE"
+              }
+            }
+          ],
+          "name": "Кафедра програмної інженерії",
+          "head": {
+            "firstName": "Дмитро",
+            "lastName": "Кравченко",
+            "patronymic": "Миколайович",
+            "sex": "MALE"
+          }
+        }
+      ],
+      "name": "Факультет комп\u0027ютерних наук",
+      "head": {
+        "firstName": "Дмитро",
+        "lastName": "Мороз",
+        "patronymic": "Миколайович",
+        "sex": "MALE"
+      }
+    },
+    {
+      "subunits": [
+        {
+          "subunits": [
+            {
+              "subunits": [
+                {
+                  "recordBookNumber": "ЗК-00013",
+                  "firstName": "Юлія",
+                  "lastName": "Поліщук",
+                  "patronymic": "Сергіївна",
+                  "sex": "FEMALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00014",
+                  "firstName": "Олена",
+                  "lastName": "Литвиненко",
+                  "patronymic": "Олександрівна",
+                  "sex": "FEMALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00015",
+                  "firstName": "Марія",
+                  "lastName": "Кравченко",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ЕК-41",
+              "head": {
+                "firstName": "Максим",
+                "lastName": "Бондаренко",
+                "patronymic": "Іванович",
+                "sex": "MALE"
+              }
+            },
+            {
+              "subunits": [
+                {
+                  "recordBookNumber": "ЗК-00016",
+                  "firstName": "Анна",
+                  "lastName": "Коваленко",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00017",
+                  "firstName": "Богдан",
+                  "lastName": "Мороз",
+                  "patronymic": "Миколайович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00018",
+                  "firstName": "Ірина",
+                  "lastName": "Бондаренко",
+                  "patronymic": "Миколаївна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ЕК-42",
+              "head": {
+                "firstName": "Іван",
+                "lastName": "Литвиненко",
+                "patronymic": "Миколайович",
+                "sex": "MALE"
+              }
+            }
+          ],
+          "name": "Кафедра економічної кібернетики",
+          "head": {
+            "firstName": "Софія",
+            "lastName": "Кравченко",
+            "patronymic": "Іванівна",
+            "sex": "FEMALE"
+          }
+        },
+        {
+          "subunits": [
+            {
+              "subunits": [
+                {
+                  "recordBookNumber": "ЗК-00019",
+                  "firstName": "Тарас",
+                  "lastName": "Мороз",
+                  "patronymic": "Олександрович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00020",
+                  "firstName": "Тарас",
+                  "lastName": "Коваленко",
+                  "patronymic": "Васильович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00021",
+                  "firstName": "Наталія",
+                  "lastName": "Кравченко",
+                  "patronymic": "Олександрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ВМ-41",
+              "head": {
+                "firstName": "Катерина",
+                "lastName": "Мороз",
+                "patronymic": "Василівна",
+                "sex": "FEMALE"
+              }
+            },
+            {
+              "subunits": [
+                {
+                  "recordBookNumber": "ЗК-00022",
+                  "firstName": "Андрій",
+                  "lastName": "Ткаченко",
+                  "patronymic": "Сергійович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00023",
+                  "firstName": "Сергій",
+                  "lastName": "Бондаренко",
+                  "patronymic": "Миколайович",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": "ЗК-00024",
+                  "firstName": "Олена",
+                  "lastName": "Поліщук",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ВМ-42",
+              "head": {
+                "firstName": "Богдан",
+                "lastName": "Шевченко",
+                "patronymic": "Петрович",
+                "sex": "MALE"
+              }
+            }
+          ],
+          "name": "Кафедра вищої математики",
+          "head": {
+            "firstName": "Анна",
+            "lastName": "Савчук",
+            "patronymic": "Василівна",
+            "sex": "FEMALE"
+          }
+        }
+      ],
+      "name": "Економічний факультет",
+      "head": {
+        "firstName": "Марія",
+        "lastName": "Мельник",
+        "patronymic": "Петрівна",
+        "sex": "FEMALE"
+      }
+    }
+  ],
+  "name": "Національний технічний університет",
+  "head": {
+    "firstName": "Марія",
+    "lastName": "Ткаченко",
+    "patronymic": "Миколаївна",
+    "sex": "FEMALE"
+  }
+}
